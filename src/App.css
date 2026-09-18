@@ -1,0 +1,14 @@
+.font-serif-sc {
+  font-family: 'Songti SC', 'Noto Serif SC', 'STSong', 'SimSun', Georgia, serif;
+}
+
+.ticker-scroll {
+  scrollbar-width: none;
+}
+.ticker-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #f3eee4;
+}
